@@ -1,0 +1,2 @@
+This repository is to demonstrate an AI model which was trained on the expression levels of combinations of the DMD genes and their hazard ratios in predicting the risk of adverse prognosis.
+Model created in collaboration with Portsmouth University Hospitals Trust-Research and Innovation Dept, University of Portsmouth, Prof. Dareck Gorecki and his laboratory team and Dr. Leon D'Cruz.  2024
